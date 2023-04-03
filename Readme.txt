@@ -1,4 +1,6 @@
-EWU Staff Management System
+# East West University Staff Management System
+
+A web based application for managing the staff of East West University. This proposed system provides language preferences and is user friendly to both admin and staff.
 
 Thanks for downloading this template!
 
